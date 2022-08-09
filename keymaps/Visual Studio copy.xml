@@ -1,0 +1,5 @@
+<keymap version="1" name="Visual Studio copy" parent="Visual Studio">
+  <action id="SurroundWith">
+    <keyboard-shortcut first-keystroke="alt s" />
+  </action>
+</keymap>
